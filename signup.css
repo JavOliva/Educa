@@ -1,0 +1,46 @@
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+#registro {
+-webkit-border-image: url(border.png) 30 30 round;
+	background-color:#605CDC;
+	height: 600px;
+	width: 600px;
+	margin-left: 350px;
+	border-radius: 5px;
+	font-family: Helvetica, sans-serif;
+}
+#inputs{
+	font: helvetica;
+	margin-left: 35px;
+	width: 500px;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+</style>
